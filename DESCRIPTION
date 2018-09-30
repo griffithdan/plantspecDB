@@ -9,4 +9,4 @@ Description: This R package provides access to dataset XXX and implements method
 #Imports: plantspec
 Repository: CRAN
 License: GPL-2
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.0
